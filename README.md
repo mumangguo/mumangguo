@@ -2,8 +2,6 @@
 
 - 🧑‍💻 略懂Java的一位大学生
 - 🚀 QQ：1805395628
-- 💬 微信：myboymu
-- 👾 B站：<a href="https://space.bilibili.com/256796103" target="_blank">木芒果</a>
 - 🌎 CSDN：<a href="https://blog.csdn.net/m0_63823719" target="_blank">木芒果</a>
 
 ## 今年汇总 ✨
