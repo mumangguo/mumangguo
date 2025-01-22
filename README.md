@@ -1,6 +1,6 @@
-## Hi, 我是木芒果 😋
+## Hi, 我是木芒果
 
-- 🧑‍💻 略懂Java的一位大学生
+- 🧑‍💻 学习Java中...
 - 🚀 QQ：1805395628
 - 🌎 CSDN：<a href="https://blog.csdn.net/m0_63823719" target="_blank">木芒果</a>
 
